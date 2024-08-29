@@ -1,0 +1,14 @@
+{
+  "name": "default.iam",
+  "authorizationMode": "PROJECT",
+  "description": "This is a default IAM connection.",
+  "domainIdentifier": "dzd_dsuy25vzyvxzqf",
+  "environmentIdentifier": "6m276qzfrdqr6v",
+  "location": {
+    "awsRegion": "us-east-1",
+    "awsAccountId": "831329184934"
+  },
+  "projectIdentifier": "b05hymv0g0aco7",
+  "provisioningType": "MANAGED",
+  "type": "IAM"
+}
