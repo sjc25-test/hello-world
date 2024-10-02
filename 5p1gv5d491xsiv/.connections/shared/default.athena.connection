@@ -1,0 +1,15 @@
+{
+  "name": "default.athena",
+  "authorizationMode": "PROJECT",
+  "description": "This is a default ATHENA connection.",
+  "domainIdentifier": "dzd_47rxisgcrphuw7",
+  "environmentIdentifier": "6smafurrgnl9k7",
+  "location": {
+    "awsRegion": "us-east-1",
+    "awsAccountId": "831329184934"
+  },
+  "projectIdentifier": "5p1gv5d491xsiv",
+  "provisioningType": "MANAGED",
+  "type": "ATHENA",
+  "athenaWorkgroup": "maxdome-workgroup-6smafurrgnl9k7"
+}
